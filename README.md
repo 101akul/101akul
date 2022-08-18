@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @101akul Akul Shah
-- 👀 I’m interested in Computational Data Analytics, Front-end Devleopment, 
+- 👀 I’m interested in Computational Data Analytics, Web Devleopment, and Machine Learning.
 - 🌱 I'm currently studying Computer Science and Engineering at the University of Connecticut
 
 <!---
